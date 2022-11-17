@@ -1,4 +1,6 @@
-# Imbalanced Classification Project Project Deliverables
+# Imbalanced Classification Project 
+
+## Project Deliverables
 
 You will be required to submit:
 ● A GitHub repository with your project written in Python or R.
